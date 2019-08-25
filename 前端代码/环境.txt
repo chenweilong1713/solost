@@ -1,0 +1,9 @@
+vue.js2.0
+vue-cli3.0
+node v10.6.0
+
+注意:
+进入项目
+npm install  需先拉去依赖
+npm run serve   运行项目vue-cli3.0
+
